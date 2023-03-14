@@ -1,5 +1,5 @@
 # Valve Developer Community `Storage`
-This repository was created to store the sounds used in the [Valve Developer Community](https://developer.valvesoftware.com).
+This repository was created to store the sounds used in the [Valve Developer Community](https://developer.valvesoftware.com). Currently it is also used to store the source code of templates, pages, and other.
 
 #### Available Sound Libraries (English)
 - Half-Life 2

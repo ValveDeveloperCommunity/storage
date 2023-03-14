@@ -1,0 +1,2 @@
+{{Doc}}
+<includeonly><onlyinclude>{{#if:{{PROTECTIONEXPIRY:edit|User:{{{user}}}/Settings}}|{{#if:{{:User:{{{user}}}/Settings|{{{1|}}}}}|{{{before|}}}{{:User:{{{user}}}/Settings|{{{1|}}}}}{{{after|}}}|{{{ifempty|}}}}}|{{{ifempty|}}}}}</onlyinclude></includeonly>

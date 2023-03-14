@@ -1,0 +1,2 @@
+{{Doc}}
+<onlyinclude><includeonly>{{#if:{{{link|}}}|[[{{{link}}}|<span style="border-bottom:1px {{{line|}}}" title="{{{1}}}">{{{2|{{{link}}}}}}</span>]]|<span style="border-bottom:1px {{{line|}}}" title="{{{1}}}">{{{2}}}</span>}}</includeonly></onlyinclude>

@@ -4,12 +4,6 @@
 
 
 
-### Categories
-
-Not in categories
-
-
-
 ### Used templates
 
 Capsule

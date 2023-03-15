@@ -1,0 +1,36 @@
+# Template:Autolang
+```html
+<!--
+
+
+    + Documentation +
+
+
+-->{{Uselangflags|en=1|zh=1}}
+{{doc|content=
+{{autolang|zh={{:User:1416006136/Signature|create=1}}}}
+{{autolang|This template can change the content automaticaly according to the language of the UI. Should use with {{tl|Uselangflags}}. The documentation of the template is written by using this template.|zh=该模板可以根据 UI 语言来自动更改显示的内容。应该与 {{tl|Uselangflags}} 一起使用。模板的文档是使用此模板编写的。}}
+<h2>{{autolang|Usage|zh=用法}}</h2>
+<h3>{{autolang|Parameters|zh=参数}}</h3>
+*{{param|1}} - {{autolang|(Unnamed parameter) the default value to show (when this language has not translation). It should be in English.|zh=（未命名参数）要显示的默认值（当该语言没有翻译时）。它应该是用英语写的。}}
+*{{param|<lang code>}} - {{autolang|The value should be the content of this language. See examples for details.|zh=它的值应该是这个语言的内容。参见示例查看详情。}}
+<h3>{{autolang|Examples|zh=示例}}</h3>
+{{Uselangflags|en=1|de=1|ja=1|ru=1|zh=1|old-right-align=1|transparent=1|noborder=1}}
+{{autolang|The buttons on the right can help you change the language of the UI easily.<br>|zh=右边的按钮可以帮助你更方便地切换 UI 的语言。}}
+
+{{Code|<nowiki>{{autolang|Document}}</nowiki>}} → {{autolang|Document}}<br>
+{{Code|<nowiki>{{autolang|Document|zh=文档}}</nowiki>}} → {{autolang|Document|zh=文档}}<br>
+{{Code|<nowiki>{{autolang|Document|ru=документ|zh=文档|de=Dokument|ja=文書|fr=Document}}</nowiki>}} → {{autolang|Document|ru=документ|zh=文档|de=Dokument|ja=文書|fr=Document}}<br>
+<h2>{{autolang|See Also|zh=另见}}</h2>
+*{{tl|Uselangflags}}
+*{{tl|uilang}}
+*{{tl|suflang}}
+}}
+[[Category:Multiple languages]][[Category:Translation templates]][[Category:Templates]]<!--
+
+
+   + Template +
+
+
+--><includeonly><onlyinclude>{{#if:{{uselang|{{SUBPAGENAME}}}}|{{{{{SUBPAGENAME}}|{{{1|}}}}}}|{{{{{uselang}}|{{{1|}}}}}}}}</onlyinclude></includeonly>
+```

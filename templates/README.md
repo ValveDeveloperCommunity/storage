@@ -1,3 +1,3 @@
 # Templates
 
-This directory contains backup copies of wiki templates.
+This directory contains backups of wiki templates.

@@ -1,0 +1,332 @@
+{{Strings subpage}}
+{{Uselangflags|en=1|de=1|ru=1|uk=1|zh=1}}
+<onlyinclude>{{#switch:{{{1|}}}
+
+| Summary = {{Autolang
+	| Summary
+	| ru = Главная
+	| uk = Головна
+	| zh = 概述}}
+
+| ForDevs = {{Autolang
+	| For developers
+	| ru = Разработчикам
+	| uk = Розробникам
+	| zh = 开发者内容}}
+
+| Workshop = {{Autolang
+	| Workshop
+	| ru = Мастерская
+	| uk = Майстерня
+	| zh = 创意工坊}}
+
+| Wiki = {{Autolang
+	| Wiki
+	| ru = Вики
+	| uk = Вікі
+	| zh = 维基页面}}
+
+| ReleaseDate = {{Autolang
+	| Release Date
+	| de = Veröffentlichung
+	| ru = Дата выпуска
+	| uk = Дата випуску
+	| zh = 发布日期}}
+
+| ReleaseDateSwitcher = {{#switch:{{{2|}}}
+	| TBA = {{Autolang
+		| To be announced
+		| de = Bevorstehende Ankündigung
+		| ru = Ещё не объявлено
+		| uk = Буде оголошено пізніше
+		| zh = 即将宣布}}
+	| Soon = {{Autolang
+		| Coming soon
+		| de = Bald verfügbar
+		| ru = Скоро выйдет
+		| uk = Незабаром
+		| zh = 即将推出}}
+	| {{{2|}}} }}
+
+| Mode = {{Autolang
+	| Mode
+	| ru = Режим игры
+	| uk = Режим гри
+	| zh = 模式}}
+
+| Modes = {{Autolang
+	| Modes
+	| ru = Режимы игры
+	| uk = Режими гри
+	| zh = 模式}}
+
+| Genre = {{Autolang
+	| Genre
+	| ru = Жанр
+	| uk = Жанр
+	| zh = 游戏}}
+
+| Genres = {{Autolang
+	| Genres
+	| ru = Жанры
+	| uk = Жанри
+	| zh = 种类}}
+
+| Engine = {{Autolang
+	| Engine
+	| ru = Движок
+	| uk = Рушій
+	| zh = 引擎}}
+
+| EngineBranch = {{Autolang
+	| Engine Branch
+	| ru = Ветка движка}}
+
+| Developer = {{Autolang
+	| Developer
+	| de = Entwickler
+	| ru = Разработчик
+	| uk = Розробник
+	| zh = 开发者}}
+
+| Developers = {{Autolang
+	| Developers
+	| de = Entwickler
+	| ru = Разработчики
+	| uk = Розробники
+	| zh = 开发者}}
+
+| Publisher = {{Autolang
+	| Publisher
+	| ru = Издатель
+	| uk = Видавець
+	| zh = 发布者}}
+
+| Publishers = {{Autolang
+	| Publishers
+	| ru = Издатели
+	| uk = Видавці
+	| zh = 发布者}}
+
+| ModeSwitcher = {{#switch:{{{2|}}}
+	| SP = {{Autolang
+		| Single Player
+		| ru = Одиночная игра
+		| uk = Однокористувацька гра
+		| zh = 单人游戏}}
+
+	| MP = {{Autolang
+		| Multiplayer Game
+		| ru = Многопользовательская игра
+		| zh = 多人游戏}}
+
+	| COOP = {{Autolang
+		| Cooperative Game
+		| ru = Кооперативная игра
+		| zh = 合作游戏}}
+
+	| MMO = {{Autolang
+		| MMO
+		| ru = ММО
+		| zh = 大型多人在线游戏 (MMO)}}
+
+	| {{{2|}}} }}
+
+| GenreSwitcher = {{#switch:{{{2|}}}
+	| FPS = {{Autolang
+		| First Person Shooter
+		| ru = Шутер от первого лица
+		| zh = 第一人称射击游戏}}
+
+	| TPS = {{Autolang
+		| Third Person Shooter
+		| ru = Шутер от третьего лица
+		| zh = 第三人称射击游戏}}
+
+	| Fighting = {{Autolang
+		| Fighting
+		| ru = Файтинг
+		| zh = 格斗游戏}}
+
+	| Arcade = {{Autolang
+		| Arcade
+		| ru = Аркада
+		| zh = 街机游戏}}
+
+	| Stealth = {{Autolang
+		| Stealth
+		| ru = Стелс}}
+
+	| Action = {{Autolang
+		| Action
+		| de = Aktion
+		| ru = Экшен
+		| uk = Бойовики
+		| zh = 动作}}
+
+	| Adventure = {{Autolang
+		| Adventure
+		| ru = Приключение
+		| zh = 冒险游戏}}
+
+	| Platformer = {{Autolang
+		| Platformer
+		| ru = Платформер
+		| zh = 平台游戏}}
+
+	| PAC = Point & Click
+
+	| VN = {{Autolang
+		| Visual Novel
+		| ru = Визуальная новелла
+		| zh = 视觉小说}}
+
+	| Racing = {{Autolang
+		| Racing
+		| ru = Гонки
+		| zh = 竞速游戏}}
+
+	| RP = {{Autolang
+		| Role Playing
+		| ru = Ролевая игра
+		| zh = 角色扮演游戏}}
+
+	| Roguelike = {{Autolang
+		| Roguelike
+		| ru = Рогалик
+		| zh = Rogue 类游戏}}
+
+	| MOBA = {{Autolang
+		| MOBA
+		| ru = МОБА
+		| zh = 多人在线战术竞技游戏}}
+
+	| Puzzle = {{Autolang
+		| Puzzle
+		| ru = Головоломка
+		| zh = 解谜游戏}}
+
+	| Sandbox = {{Autolang
+		| Sandbox
+		| ru = Песочница
+		| uk = Пісочниця
+		| zh = 沙盒游戏}}
+
+	| {{{2|}}} }}
+
+| CompanySwitcher = {{#switch:{{{2|}}}
+	| Valve		= [[Valve]]
+	| Gearbox	= [[Gearbox Software]]
+	| TRS		= [[Turtle Rock Studios]]
+	| Ritual	= [[Ritual]]
+	| MD		= [[Maverick Developments]]
+	| Outerlight	= [[Outerlight]]
+	| RS		= [[Reperio Studios]]
+	| KRG		= [[Kuma Reality Games]]
+	| Paleo		= [[Paleo]]
+	| Facepunch	= [[Facepunch Studios]]
+	| {{{2|}}} }}
+
+}}</onlyinclude><!--
+
+
+ ↓ Preview ↓
+
+
+--><div style="text-transform:uppercase">
+* {{Software page/strings|Summary}}
+
+* {{Software page/strings|ForDevs}}
+
+* {{Software page/strings|Workshop}}
+
+* {{Software page/strings|Wiki}}
+</div>
+
+* {{Software page/strings|ReleaseDate}}
+
+<hr>
+
+* {{Software page/strings|ReleaseDateSwitcher|TBA}}
+
+* {{Software page/strings|ReleaseDateSwitcher|Soon}}
+
+<hr>
+
+* {{Software page/strings|Mode}} / {{Software page/strings|Modes}}
+
+<hr>
+
+* {{Software page/strings|ModeSwitcher|SP}}
+
+* {{Software page/strings|ModeSwitcher|MP}}
+
+* {{Software page/strings|ModeSwitcher|COOP}}
+
+* {{Software page/strings|ModeSwitcher|MMO}}
+
+<hr>
+
+* {{Software page/strings|Genre}} / {{Software page/strings|Genres}}
+
+<hr>
+
+* {{Software page/strings|GenreSwitcher|FPS}}
+
+* {{Software page/strings|GenreSwitcher|TPS}}
+
+* {{Software page/strings|GenreSwitcher|Fighting}}
+
+* {{Software page/strings|GenreSwitcher|Arcade}}
+
+* {{Software page/strings|GenreSwitcher|Stealth}}
+
+* {{Software page/strings|GenreSwitcher|Adventure}}
+
+* {{Software page/strings|GenreSwitcher|Platformer}}
+
+* {{Software page/strings|GenreSwitcher|PAC}}
+
+* {{Software page/strings|GenreSwitcher|VN}}
+
+* {{Software page/strings|GenreSwitcher|Racing}}
+
+* {{Software page/strings|GenreSwitcher|RP}}
+
+* {{Software page/strings|GenreSwitcher|Roguelike}}
+
+* {{Software page/strings|GenreSwitcher|MOBA}}
+
+* {{Software page/strings|GenreSwitcher|Puzzle}}
+
+* {{Software page/strings|GenreSwitcher|Sandbox}}
+
+<hr>
+
+* {{Software page/strings|Engine}}
+
+* {{Software page/strings|EngineBranch}}
+
+* {{Software page/strings|Developer}} / {{Software page/strings|Developers}}
+
+* {{Software page/strings|Publisher}} / {{Software page/strings|Publishers}}
+
+* {{Software page/strings|CompanySwitcher|Valve}}
+
+* {{Software page/strings|CompanySwitcher|Gearbox}}
+
+* {{Software page/strings|CompanySwitcher|TRS}}
+
+* {{Software page/strings|CompanySwitcher|Ritual}}
+
+* {{Software page/strings|CompanySwitcher|MD}}
+
+* {{Software page/strings|CompanySwitcher|Outerlight}}
+
+* {{Software page/strings|CompanySwitcher|RS}}
+
+* {{Software page/strings|CompanySwitcher|KRG}}
+
+* {{Software page/strings|CompanySwitcher|Paleo}}
+
+* {{Software page/strings|CompanySwitcher|Facepunch}}

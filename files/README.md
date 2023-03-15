@@ -1,2 +1,2 @@
-# Uploads `Directory`
-Uploaded files for use in articles. Some may be copyrighted.
+# Files
+This directory contains backup copies of files, source files, as well as sounds that are used in the wiki.

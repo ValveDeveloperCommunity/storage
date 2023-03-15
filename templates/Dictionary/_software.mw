@@ -1,0 +1,34 @@
+<includeonly><onlyinclude>{{#switch:{{{1}}}
+
+| dota2_tools =	{{autolang
+		| Dota 2 Workshop Tools
+		| el	= Εργαλεία Εργαστηρίου Dota 2
+		| fr	= Outil Workshop de Dota 2
+		| it	= Strumenti del Workshop di Dota 2
+		| pl	= Narzędzia Warsztatowe Dota 2
+		| pt-br	= Dota 2 Ferramentas da oficina
+		| ru	= Инструменты мастерской Dota 2
+		| tr	= Dota 2 Atölye Araçları
+		| zh	= Dota 2 创意工坊工具集
+		}}
+
+| hlvr_tools =	{{autolang
+		| Half-Life: Alyx Workshop Tools
+		| el	= Εργαλεία Εργαστηρίου Half-Life: Alyx
+		| fr	= Outil Workshop de Half-Life: Alyx
+		| pl	= Narzędzia Warsztatowe Half-Life: Alyx
+		| ru	= Инструменты мастерской Half-Life: Alyx
+		| tr	= Half-Life: Alyx Atölye Araçları
+		| zh	= Half-Life: Alyx 创意工坊工具集
+		}}
+
+}}</onlyinclude></includeonly>[[Category:Templates]]<!--
+
+↓ Preview ↓
+
+-->__NOEDITSECTION__<div style="background-color:#323232; border:1px solid #7A7A7A; border-radius:4px; padding:.5em 1.2em">
+=== {{Dictionary/common|Preview of the Dictionary subpage}} ===
+{{Dictionary/software|dota2_tools}}
+<hr>
+{{Dictionary/software|hlvr_tools}}
+</div>

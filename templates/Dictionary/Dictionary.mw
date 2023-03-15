@@ -1,0 +1,11 @@
+<noinclude>
+Translated strings and more. Inspired by the Team Fortress 2 wiki [https://wiki.teamfortress.com/wiki/Template:Dictionary template].
+
+<div style="background-color:#323232; border:1px solid #7A7A7A; border-radius:4px; padding:.5em 1.2em 1em">
+=== {{Dictionary/common|Translatable strings}} ===
+* '''[[Template:Dictionary/common|Dictionary/common]]'''
+* '''[[Template:Dictionary/software|Dictionary/software]]'''
+* '''[[Template:Dictionary/notices|Dictionary/notices]]'''
+</div>
+[[Category:Translation templates]]
+</noinclude>

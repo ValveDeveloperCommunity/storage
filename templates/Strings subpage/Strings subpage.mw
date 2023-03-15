@@ -1,0 +1,11 @@
+<includeonly><onlyinclude><div style="{{Dir|rtl=direction:rtl;}} display:flex; flex-direction:column; justify-content:center; background-color:rgba(159,159,159,.05); border:1px solid rgba(159,159,159,.3); border-{{Dir|ltr=left|rtl=right}}:4px solid #9F9F9F; border-radius:3px; overflow:hidden; position:relative; padding:10px; margin:6px 0">
+	<div style="opacity:0.05; user-select:none; pointer-events:none; position:absolute; {{Dir|ltr=right|rtl=left}}:-32px">[[File:icon-settings.png|64px|link=]]</div>
+	<div style="font-size:16px; color:white">{{Autolang
+		|Subpage of strings
+		| ru = Подстраница предложений (лингвистика)
+		| zh = 包含可调用字符串的子页面}}</div>
+	<div>{{Autolang
+		|It contains various translatable strings that are used in the template or anywhere else.
+		| ru = Она содержит различные переводимые строки, которые используются в шаблоне или где-либо ещё.
+		| zh = 它包含在模板或其他任何地方使用的各种可翻译字符串。}}</div>
+</div></onlyinclude></includeonly>{{doc}}

@@ -1,4 +1,3 @@
 # Template:Capsule
-```html
-<onlyinclude><includeonly><div align="{{{align|left}}}" style="background:{{{bg|{{#switch:{{{style|}}}|1=#4A6821|#262626}}}}}; {{#switch:{{{style|}}}|2=box-shadow:0 5px 10px rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.2);|}}border-radius:{{{radius|{{#switch:{{{style|}}}|1=6px|3px}}}}}; display:flow-root; padding:{{{padding|{{#switch:{{{style|}}}|1=12px 18px|10px}}}}}; margin:{{{margin|.4em 0}}}">{{{1|{{{text|}}}}}}</div></includeonly></onlyinclude>{{doc}}
-```
+
+**Last backup update:** 15 March 2023

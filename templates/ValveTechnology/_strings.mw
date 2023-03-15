@@ -1,0 +1,62 @@
+<onlyinclude>{{#switch:{{{1|}}}
+
+| ValveTechnology-SourceEngine = {{Autolang
+	| The engine under the hood of Half-Life 2 can make your game a success. Let Source™ do the heavy lifting so that your team can focus on building great games.
+	| cs = Motor pod kapotou HL2 může vaší hře pomoci k úspěchu. Nechte na Source™ všechnu tu těžkou práci a v klidu se věnujte tvorbě skvělých her.
+	| de = Die Engine, die bei Half-Life 2 die Fäden zieht, kann auch Ihr Spiel zum Erfolg machen. Lassen Sie Source™ die schwere Arbeit verrichten, damit Ihr Team sich auf das Entwickeln von großartigen Spielen konzentrieren kann.
+	| es = El motor que se esconde "bajo el capó" de Half-Life 2 puede hacer que tu juego sea una obra de arte. Deja que Source™ se ocupe del trabajo pesado para que tu equipo pueda trabajar tranquilamente en la creación de un gran juego.
+	| fr = Le moteur sous le capot de Half-Life 2 peut faire de votre jeu un succès. Laissez Source™ faire le gros travail afin que votre équipe puisse se concentrer sur la construction de grands jeux.
+	| it = Il motore grafico utilizzato per la creazione di Half Life 2 può rendere il tuo gioco un successo. Lascia che Source™ si occupi del lavoro pesante in modo che il tuo team possa concentrarsi sulla creazione di grandi giochi.
+	| pl = Silnik pod bazą Half-Life 2 może spowodować, że Twoja gra osiągnie sukces. Pozwól Source™ zająć się najtrudniejszymi zadaniami, kiedy Twoja drużyna może skupić się na tworzeniu nowej, genialnej gry!
+	| pt-br = O motor "debaixo do capô" do Half-Life 2 pode fazer com que seu jogo seja um sucesso. Deixe que a Source™ faça o trabalho pesado para que sua equipe possa trabalhar tranquilamente na criação de excelentes jogos.
+	| ru = Движок, который лежит в корне Half-Life 2 может сделать вашу игру удачной. Отдайте всю тяжёлую работу движку Source™, чтобы ваша команда могла сосредоточиться на разработке замечательных игр.
+	| uk = Двигун, який лежить у корні Half-Life 2 може зробити вашу гру вдалою. Віддайте всю важку роботу двигуну Source™, щоб ваша команда змогла зосередитися на виробництві чудових ігр.
+	| sv = Motorn under huven till Half-Life 2 kan göra en succé av ditt spel. Låt Source™ göra det tunga jobbet så ert team kan fokusera på att skapa fantastiska spel.
+	| tr = Half-Life 2'nin arkasındaki motor oyununuzu başarıya taşıyacak. Source'un™ ağır yükü üstlenmesine izin verin ve takımınızın tamamen harika oyunlar yapmaya odaklanmasını sağlayın.
+	| zh = 半条命2 (Half-Life 2) 所用的引擎可以让您旗开得胜，就让 Source™ 引擎帮助您的团队制作精美绝伦的游戏吧。
+	| zh-tw = 戰慄時空2 (Half-Life 2) 所使用的引擎可以幫助你邁向成功，把麻煩的事情都交給 Source™ ，你只需要專心在自己的遊戲上就好！
+	| ko = 큰 사업적인 성공을 거둔 게임인 벨브사의 하프 라이프 2를 개발하는데에 쓰인 소스엔진, 이제 이 소스 엔진을 이용을 통해 하드코딩을 통한 엔진 제작을 피하고 모드, 게임 다자인, 신규 게임 제작 작업 그 자체에 집중할수 있겠끔 도와드립니다.
+	| ka = ძრავას, რომელზეც დაწერილია Half-Life 2, შეუძლია მოუტანოს წარმატება თქვენს თამაშს. Source™ გააკეთებს ყველაზე რთულ სამუშაოს, თქვენი გუნდი კი ყურადღებას გადაიტანს საუკეთესო თამაშების შექმნაზე. }}
+
+| ValveTechnology-Steam = {{Autolang
+	| If you're interested in building a product using Source, talk to us about options for distribution on Steam.
+	| cs = Chcete-li vytvářet hry s použitím Source promluvte si s námi o možnostech její distribuce prostřednictvím Steamu.
+	| de = Falls Sie Interesse an einem Source-Projekt haben, reden Sie mit uns über die Möglichkeiten der Distribution mithilfe von Steam.
+	| es = Si estás interesado en hacer un producto utilizando Source, habla con nosotros acerca de las opciones de distribución en Steam.
+	| fr = Si vous êtes intéressés dans la construction d’un jeu utilisant Source™, parlez nous de votre jeu pour les options de distribution sur Steam.
+	| it = Se sei interessato nel creare prodotti utilizzando il Source Engine, parla con noi riguardo le opzioni di distribuzione su Steam.
+	| pl = Jeżeli jesteś zainteresowany tworzeniem gier dla Silnika Source, zerknij nasze forum dyskusji na platformie Steam.
+	| pt-br = Se você está interessado em fazer um produto utilizando a Source, fale conosco sobre as opções de distribuição no Steam.
+	| ru = Если вы заинтересованы в разработке на движке Source, свяжитесь с нами, чтобы узнать возможности распространения продукта на платформе Steam.
+	| uk = Якщо ви зацікавилися у виробництві на двигуні Source, зв'яжіться з нами, щоб дізнатися можливості поширення продукта на платформі Steam.
+	| sv = Om du är intresserad av att skapa en produkt användandes utav Source, tala med oss om förslag på distribution genom Steam.
+	| tr = Source oyun motoru'nu kullanarak bir ürün yapmak ile ilgileniyorsanız, Steam'de yayımlamak için bizimle iletişime geçin.
+	| zh = 如果您很想用 Source 引擎开发一款商业项目，您可以与我们联系并将您的项目发布在 Steam 上。
+	| zh-tw = 如果你對開發 Source 引擎的程式很感興趣，你可以聯繫我們，讓我們幫助你把你的程式放在 Steam 上。
+	| ko = 소스엔진을 이용한 상용게임 제작을 위해 소스엔진을 사용하기 위한 라이센스 취득, 벨브의 디지털 배급 플렛폼인 스팀을 통한 배포를 원하신다면 벨브사와의 업무협의 하세요.
+	| ka = თუ თქვენ ხართ დაინტერესებული შექმნათ პროდუქტი Source-ს გამოყენებით, დაგვიკავშირდით, რათა გაიგოთ მისი გავრცელების შესაძლებლობები Steam პლატფორმაზე. }}
+
+| RAVT = {{Autolang
+	| Read about Valve Technology
+	| cs = Přečtěte si další informace o licencování Valve technologií 
+	| de = Mehr über die Valve-Technologie
+	| es = Lee acerca de la licencia de Valve Technology
+	| fr = À propos des licences sur la technologie Valve
+	| it = Leggi di più riguardo le Tecnologie di Valve
+	| pl = Dowiedz się więcej o technologii Valve
+	| pt-br = Leia sobre a licença da Tecnologia da Valve
+	| ru = Узнать больше о лицензировании технологий Valve
+	| uk = Дізнатися більше про технології Valve
+	| sv = Läs om licensiering av Valves teknologi
+	| tr = Valve Teknolojileri hakkında okumak için tıklayın
+	| zh = 查看维尔福开发许可
+	| zh-tw = 查看 Valve 開發許可聲明
+	| ko = 벨브 테크노로지에 대한 문서를 읽어 보세요.
+	| ka = გაიგეთ უფრო მეტი Valve ტექნოლოგიების ლიცენზირების შესახებ }}
+
+}}</onlyinclude>{{Strings subpage}}
+* {{ValveTechnologyEditable/strings|ValveTechnology-SourceEngine}}
+
+* {{ValveTechnologyEditable/strings|ValveTechnology-Steam}}
+
+* {{ValveTechnologyEditable/strings|RAVT}}

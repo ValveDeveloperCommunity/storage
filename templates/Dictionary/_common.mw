@@ -1,0 +1,52 @@
+<includeonly><onlyinclude>{{#switch:{{{1}}}
+
+| Level Design = {{autolang
+		| Level Design
+		| ko	= 레벨 디자인
+		| pl	= Projektowanie poziomów
+		| ru	= Дизайн уровней
+		| zh	= 关卡设计
+		}}
+
+| Displacement = {{autolang
+		| Displacement
+		| ru	= Деформированная поверхность
+		| zh	= 表层/地形位移
+		}}
+
+| Preview of the Dictionary subpage = {{autolang
+		| Preview of the Dictionary subpage
+		| zh = 字典子页面的预览}}
+
+| Translatable strings = {{autolang
+		| Translatable strings
+		| zh = 可添加翻译的术语}}
+
+| Version = {{autolang
+		| Version
+		| zh = 版本}}
+
+| Template = {{int:nstab-template}}
+
+| Page = {{int:nstab-main}}
+}}</onlyinclude></includeonly>[[Category:Templates]]<!--
+
+↓ Preview ↓
+
+-->__NOEDITSECTION__<div style="background-color:#323232; border:1px solid #7a7a7a; border-radius:4px; padding:.5em 1.2em .5em 1.2em">
+=== {{Dictionary/common|Preview of the Dictionary subpage}} ===
+{{Dictionary/common|Level Design}}
+
+{{Dictionary/common|Displacement}}
+
+{{Dictionary/common|Preview of the Dictionary subpage}}
+
+{{Dictionary/common|Translatable strings}}
+
+{{Dictionary/common|Version}}
+
+{{Dictionary/common|Template}}
+
+{{Dictionary/common|Page}}
+
+</div>

@@ -4,4 +4,4 @@ This repository was created to store the sounds used in the [Valve Developer Com
 
 
 #### DMCA
-Content may be owned by [Valve Software](https://github.com/ValveSoftware), so using the contents of this repository in your paid projects may result in negative consequences.
+Content may be owned by [Valve Software](https://github.com/ValveSoftware), so using the contents of this repository in your commercial projects may lead to negative consequences.

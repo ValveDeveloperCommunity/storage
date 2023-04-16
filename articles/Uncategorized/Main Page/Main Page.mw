@@ -13,7 +13,7 @@ Welcome to the <b style="color:lightgrey">Valve Developer Community</b>. Whether
 == Source and the Source SDK ==
 {{Capsule
 | style = 1
-| [[File:Doublearrow_white.png|text-bottom|link=]] [[SDK Docs|<font style=color:white>'''Go to the Source Engine documentation index'''</font>]]
+| [[File:Doublearrow_white.png|text-bottom|link=]] [[SDK Docs|<font style="color:white">'''Go to the Source Engine documentation index'''</font>]]
 }}
 Our knowledgebase of technical information about using the engine and all of the related tools is posted on a community-driven web site called a ''wiki''. [[Special:Userlogin|Sign up as a developer]] to contribute.
 
@@ -21,21 +21,21 @@ Our knowledgebase of technical information about using the engine and all of the
 {{Capsule
 | style = 1
 | bg = #4B2A2E
-| [[Image:Dota workshop.png|link=|Dota 2]] &nbsp; [[Dota 2 Workshop Tools|<font style=color:white>'''Go to the Dota 2 Workshop Tools documentation index'''</font>]]
+| [[Image:Dota workshop.png|link=|Dota 2]] &nbsp; [[Dota 2 Workshop Tools|<font style="color:white">'''Go to the Dota 2 Workshop Tools documentation index'''</font>]]
 }}
 
 == Half-Life: Alyx Workshop Tools ==
 {{Capsule
 | style = 1
 | bg = #294157
-| [[File:Hlvr workshop.png|link=|Half-Life: Alyx]] &nbsp; [[Half-Life: Alyx Workshop Tools|<font style=color:white>'''Go to the Half-Life: Alyx Workshop Tools documentation index'''</font>]]
+| [[File:Hlvr workshop.png|link=|Half-Life: Alyx]] &nbsp; [[Half-Life: Alyx Workshop Tools|<font style="color:white">'''Go to the Half-Life: Alyx Workshop Tools documentation index'''</font>]]
 }}
 
 == SteamVR Workshop Tools ==
 {{Capsule
 | style = 1
 | bg = #294157
-| [[File:Steamtours workshop.png|link=|SteamVR]] &nbsp; [[SteamVR/Environments|<font style=color:white>'''Go to the SteamVR Workshop Tools documentation index'''</font>]]
+| [[File:Steamtours workshop.png|link=|SteamVR]] &nbsp; [[SteamVR/Environments|<font style="color:white">'''Go to the SteamVR Workshop Tools documentation index'''</font>]]
 }}
 
 == For Mod Teams ==

@@ -1,8 +1,0 @@
-<onlyinclude>{{#switch:{{{1|}}}
-
-| Screenshot =	{{#if:{{PROTECTIONEXPIRY:edit|File:{{{3|}}} - Screenshot {{{2|}}}.png}}
-		|<div style="display:flex; justify-content:center; align-items:center; min-width:128px; height:72px; background:#202020; border-radius:6px; overflow:hidden">[[File:{{{3|}}} - Screenshot {{{2|}}}.png|128px]]</div>
-		|{{#if:{{PROTECTIONEXPIRY:edit|File:{{{3|}}} - Screenshot {{{2|}}}.jpg}}|<div style="display:flex; justify-content:center; align-items:center; min-width:128px; height:72px; background:#202020; border-radius:6px; overflow:hidden">[[File:{{{3|}}} - Screenshot {{{2|}}}.jpg|128px]]</div>|}}
-		}}
-
-}}</onlyinclude>

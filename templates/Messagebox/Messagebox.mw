@@ -1,5 +1,0 @@
-{{Lang}}{{Doc}}
-<includeonly><onlyinclude><div class="plainlinks" style="display:flex; align-items:center; background-color:{{{bgcolor|#28374b}}}; border: 1px solid {{{bdcolor2|#525252}}}; {{{borderstyle|border-left: 10px solid}}} {{{bdcolor|#537AA8}}}; font-style:{{{txtstyle|normal}}}; {{#if:{{{txtcolor|}}}|color:{{{txtcolor}}};}} padding:{{{padding|4px}}}; margin:{{{margin|6px 0}}}; {{{style|}}};">
-	{{#ifeq:{{{image}}}|None||<div style="margin:0 .8em 0 .5em">{{{image|[[File:Info.png|40px|link=]]}}}</div>}}
-	<div>{{{text}}} {{#if: {{{small|}}} | <br /><small>{{{small}}}</small> }}</div>
-</div></onlyinclude></includeonly>

@@ -1,3 +1,0 @@
-<div style="{{#ifeq:{{FULLPAGENAME}}|{{#switch:{{{main|}}}|true = {{{1|}}} | {{{1|}}} ({{{2|}}}) }}
-			| background:transparent; border:1px solid rgb(104 104 104); border-bottom:1px solid #262626; cursor:default;
-			| background:rgb(30 30 30); border:1px solid rgb(80 80 80); border-bottom:1px solid #686868;}} border-top-left-radius:4px; border-top-right-radius:4px; padding:0 6px; margin-bottom:-1px">[[{{{1|}}}{{#switch:{{{main|}}}|true=|&nbsp;({{{2|}}})}}|{{{alt|{{{2|}}}}}}]]</div>

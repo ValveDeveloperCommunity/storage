@@ -20,6 +20,7 @@
 				border: 1px solid rgb(45 45 45);
 				border-radius: 6px;
 				overflow: hidden;
+				user-select: none;
 				position: relative;
 				padding: 1.25em 1em;
 				margin-bottom: 10px;
@@ -45,20 +46,29 @@
 			.vdc-island:active::before {
 				opacity: .7;
 			}
+
+			.vdc-island .txt-ClickOnMe { display: none }
+
+			.vdc-island:active .txt-HoverOverMe {
+				display: none;
+			}
+			.vdc-island:active .txt-ClickOnMe {
+				display: block;
+			}
 		</style>
 	</head>
 	<body>
 		<div class="vdc-island">
-			Hello, World!
+			<span class="txt-HoverOverMe"> Hover over me! </span> <span class="txt-ClickOnMe"> Click on me! </span>
 		</div>
 		<div class="vdc-island" style="background-color:rgb(63 43 43)">
-			Hello, World!
+			<span class="txt-HoverOverMe"> Hover over me! </span> <span class="txt-ClickOnMe"> Click on me! </span>
 		</div>
 		<div class="vdc-island" style="background-color:rgb(63 43 83)">
-			Hello, World!
+			<span class="txt-HoverOverMe"> Hover over me! </span> <span class="txt-ClickOnMe"> Click on me! </span>
 		</div>
 		<div class="vdc-island" style="background-color:rgb(63 43 63)">
-			Hello, World!
+			<span class="txt-HoverOverMe"> Hover over me! </span> <span class="txt-ClickOnMe"> Click on me! </span>
 		</div>
 	</body>
 </html
